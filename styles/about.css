@@ -1,0 +1,93 @@
+#About-section {
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	background-color: #fff5ff;
+}
+
+.about-content {
+	margin-top: 50px;
+	margin-bottom: 50px;
+	margin-left: 100px;
+	margin-right: 100px;
+}
+
+.about-head {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin-bottom: 50px;
+	padding-top: 4rem;
+}
+
+.abouthead {
+	font-family: "Marcellus", serif;
+	font-size: 60px;
+}
+
+.tographerhead {
+	font-family: "Marcellus", serif;
+}
+
+.dudename {
+	font-family: "Marcellus", serif;
+	margin-bottom: 1rem;
+}
+
+.about-paragraph {
+	display: flex;
+	margin-bottom: 50px;
+	font-family: "Overpass", sans-serif;
+}
+
+.dudes-info {
+	font-family: "Overpass", sans-serif;
+}
+
+.about-cards-head {
+	display: flex;
+	margin-bottom: 50px;
+}
+
+.card-img-left {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin-bottom: 50px;
+	padding: 20px;
+	background-color: #c0a2c0;
+	border-radius: 20px;
+	box-shadow: #000 -5px 5px 0px 0px;
+}
+
+.imgs {
+	border-radius: 20px;
+}
+
+.photographer-info-left {
+	margin-left: 80px;
+	margin-right: 80px;
+	padding: 20px;
+	align-items: center;
+}
+
+.photographer-info-right {
+	margin-right: 50px;
+	padding: 20px;
+}
+
+.card-img-right {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin-top: 80px;
+	margin-bottom: 80px;
+	padding: 20px;
+}
+
+h2 {
+	font-size: 3rem;
+	padding-bottom: 1rem;
+}
